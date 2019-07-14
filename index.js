@@ -22,9 +22,9 @@ var johnLennonFactsArray = new Array();
 
 var i = 0
 
-function johnLennonFacts(facts) {
-  while (i < facts.length) {
-    johnLennonFactsArray.push(facts[i] + '!!!')
+function johnLennonFacts(array) {
+  while (i < array.length) {
+    johnLennonFactsArray.push(array[i] + '!!!')
     i++
   }
   return johnLennonFactsArray;
