@@ -31,6 +31,16 @@ function johnLennonFacts(array) {
 
 function iLoveTheBeatles(num) {
   var array = new Array();
-  
+  var i = 0
+  do {
+    array.push('I love the Beatles!')
+    i++
+  } while (i <= num)
 }
+
+
+do {
+  // code block to be executed
+}
+while (condition);
 
