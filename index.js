@@ -26,7 +26,7 @@ function johnLennonFacts(array) {
     i++
     
   }
-  return johnLennonFactsArray;
+  return array;
 }
 
 //   while (var i = 0; i < facts.length) {
