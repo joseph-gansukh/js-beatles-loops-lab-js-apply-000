@@ -28,10 +28,8 @@ function johnLennonFacts(array) {
   return array;
 }
 
-//   while (var i = 0; i < facts.length) {
-//     johnLennonFactsArray.push(facts[i] + '!!!')
-//     i++
-//   }
 
-// johnLennonFactsArray
+function iLoveTheBeatles(num) {
+  
+}
 
