@@ -50,8 +50,4 @@ function iLoveTheBeatles(num) {
 }
 
 
-// do {
-//   // code block to be executed
-// }
-// while (condition);
-
+iLoveTheBeatles(7)
