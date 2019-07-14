@@ -40,8 +40,8 @@ function iLoveTheBeatles(num) {
 }
 
 
-do {
-  // code block to be executed
-}
-while (condition);
+// do {
+//   // code block to be executed
+// }
+// while (condition);
 
