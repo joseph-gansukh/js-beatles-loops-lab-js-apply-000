@@ -45,7 +45,7 @@ function iLoveTheBeatles(num) {
   do {
     array.push('I love the Beatles!')
     i++
-  } while (i <= num && num < 16);
+  } while (i <= num && num < 14);
   return array;
 }
 
