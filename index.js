@@ -18,14 +18,11 @@ function theBeatlesPlay(musicians, instruments) {
       return musicianInstrument
 }
 
-var johnLennonFactsArray = new Array();
-
-
 
 function johnLennonFacts(array) {
   var i = 0
   while (i < array.length) {
-    johnLennonFactsArray.push(array[i] + '!!!')
+    array[i] + '!!!'
     i++
     
   }
