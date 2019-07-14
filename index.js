@@ -28,7 +28,7 @@ var johnLennonFactsArray = new Array();
 //   return johnLennonFactsArray;
 // }
 
-  while (i < facts.length) {
+  while (i < 4) {
     johnLennonFactsArray.push(facts[i] + '!!!')
     i++
   }
